@@ -2,6 +2,8 @@
 
 A voir ici : [Site pour apprendre le turc](https://kduchevreuil.github.io/Apprendre-le-turc/index.html)
 
+[![Image](./images/presentation.png)](https://kduchevreuil.github.io/Apprendre-le-turc/index.html)
+
 ## Mes reseaux sociaux :
 
 <p align="center">
