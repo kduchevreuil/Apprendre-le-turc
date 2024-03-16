@@ -8,11 +8,11 @@ A voir ici : [Site pour apprendre le turc](https://kduchevreuil.github.io/Appren
 
 Ce site, entièrement conçu et codé par mes soins, vous propose une immersion complète dans la langue turque à travers trois grandes catégories :
 
-    Grammaire : Basée sur les livres "Istanbul Yabancılar İçin Türkçe Ders Kitabı", avec des explications supplémentaires pour faciliter la compréhension.
+- Grammaire : Basée sur les livres "Istanbul Yabancılar İçin Türkçe Ders Kitabı", avec des explications supplémentaires pour faciliter la compréhension.
 
-    Vocabulaire : Découvrez des phrases aléatoires du A1 au C1, avec une expérience interactive permettant d'améliorer votre compréhension auditive et votre prononciation.
+- Vocabulaire : Découvrez des phrases aléatoires du A1 au C1, avec une expérience interactive permettant d'améliorer votre compréhension auditive et votre prononciation.
 
-    Bande dessinée DMZ : Plongez dans une histoire captivante où Matty Roth se retrouve seul dans une Amérique en proie à la guerre civile, avec une lecture cliquez par clic sur les images.
+- Bande dessinée DMZ : Plongez dans une histoire captivante où Matty Roth se retrouve seul dans une Amérique en proie à la guerre civile, avec une lecture cliquez par clic sur les images.
 
 ⚠️ Votre progression est à suivre en autonomie.
 
