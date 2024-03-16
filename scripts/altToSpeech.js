@@ -2,6 +2,12 @@ const Allimages = document.querySelectorAll("#altToSpeech");
 let synth = speechSynthesis,
   isSpeaking = true;
 // choıx de la langue turque
+let turkishVoice = window.speechSynthesis.getVoices().find((v) => v.lang === "tr" || v.lang === "tr-TR");
+if (turkishVoice) {
+  synth.lang = "tr";
+} else {
+  synth.lang = "tr-TR";
+}
 
 
 // Lecture de la description alternative
