@@ -1,6 +1,6 @@
 # Site pour apprendre le turc :
 
-A voir ici : [Site pour apprendre le turc](https://.github.io/apprendreleturc/)
+A voir ici : [Site pour apprendre le turc](https://kduchevreuil.github.io/Apprendre-le-turc/index.html)
 
 ## Mes reseaux sociaux :
 
