@@ -7,6 +7,10 @@
   src: url("../fonts/graffiti7.ttf") format("truetype");
 }
 @font-face {
+  font-family: "graffiti3";
+  src: url("../fonts/graffiti6.otf") format("truetype");
+}
+@font-face {
   font-family: comic;
   src: url("../fonts/comic1.ttf") format("truetype");
 }
@@ -145,19 +149,19 @@ body {
   }
   article a {
     font-family: "graffiti2";
-    background-color: rgb(102, 18, 18);
+    background-color: rgb(85, 25, 25);
     width: 100%;
     margin: auto;
     display: block;
     padding: 10px 0px 0px 0px;
     border-radius: 5px;
-    border: double rgb(255, 255, 255) 6px;
+    border: 8px double rgb(255, 255, 255);
     color: rgb(255, 255, 255);
     cursor: pointer;
-    font-size: 5vh;
     text-align: center;
     text-decoration: none;
-    text-shadow: 2px 0px 3px black;
+    letter-spacing: 0.5vh;
+    font-size: 2.5vh;
   }
   article button {
     font-family: comic;
@@ -342,19 +346,19 @@ body {
   }
   article a {
     font-family: "graffiti2";
-    background-color: rgb(102, 18, 18);
+    background-color: rgb(85, 25, 25);
     width: 100%;
     margin: auto;
     display: block;
     padding: 10px 0px 0px 0px;
     border-radius: 5px;
-    border: double rgb(255, 255, 255) 6px;
+    border: 8px double rgb(255, 255, 255);
     color: rgb(255, 255, 255);
     cursor: pointer;
-    font-size: 3.8vh;
     text-align: center;
     text-decoration: none;
-    text-shadow: 2px 0px 3px black;
+    letter-spacing: 0.5vh;
+    font-size: 3.8vh;
   }
   article button {
     font-family: comic;
@@ -540,19 +544,19 @@ body {
   }
   article a {
     font-family: "graffiti2";
-    background-color: rgb(102, 18, 18);
+    background-color: rgb(85, 25, 25);
     width: 100%;
     margin: auto;
     display: block;
     padding: 10px 0px 0px 0px;
     border-radius: 5px;
-    border: double rgb(255, 255, 255) 6px;
+    border: 8px double rgb(255, 255, 255);
     color: rgb(255, 255, 255);
     cursor: pointer;
-    font-size: 3.8vh;
     text-align: center;
     text-decoration: none;
-    text-shadow: 2px 0px 3px black;
+    letter-spacing: 0.5vh;
+    font-size: 3.8vh;
   }
   article button {
     font-family: comic;
@@ -745,18 +749,19 @@ body {
   }
   article a {
     font-family: "graffiti2";
-    background-color: rgb(102, 18, 18);
+    background-color: rgb(85, 25, 25);
     width: 100%;
     margin: auto;
     display: block;
+    padding: 10px 0px 0px 0px;
     border-radius: 5px;
-    border: double rgb(255, 255, 255) 6px;
+    border: 8px double rgb(255, 255, 255);
     color: rgb(255, 255, 255);
     cursor: pointer;
-    font-size: 3rem;
     text-align: center;
     text-decoration: none;
-    text-shadow: 2px 0px 3px black;
+    letter-spacing: 0.5vh;
+    font-size: 3rem;
   }
   article button {
     font-family: comic;
