@@ -14,7 +14,7 @@ Ce site, entièrement conçu et codé par mes soins, vous propose une immersion 
 
 - Bande dessinée DMZ : Plongez dans une histoire captivante où Matty Roth se retrouve seul dans une Amérique en proie à la guerre civile, avec une lecture cliquez par clic sur les images.
 
-⚠️ Votre progression est à suivre en autonomie.
+⚠️ Pour fonctionner sur votre machine (ordinateur, tablette ou smartphone), il est nécessaire de télécharger un "TTS" ou une "synthèse vocale" pour entendre les phrases en turc. En allant dans vos parametre de données vocales ou synthèse vocale. Vous pouvez en trouver un sur le Galaxy Store, Play Store ou l'App Store.
 
 ## Mes reseaux sociaux :
 
