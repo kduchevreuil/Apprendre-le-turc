@@ -14,7 +14,7 @@ Ce site, entièrement conçu et codé par mes soins, vous propose une immersion 
 
 - Bande dessinée DMZ : Plongez dans une histoire captivante où Matty Roth se retrouve seul dans une Amérique en proie à la guerre civile, avec une lecture cliquez par clic sur les images.
 
-⚠️ Pour fonctionner sur votre machine (ordinateur, tablette ou smartphone), il est nécessaire de télécharger un "TTS" ou une "synthèse vocale" pour entendre les phrases en turc. Recherchez "synthèse vocale" dans les parametres de vos appareils ou recherchez en sur le Galaxy Store, Play Store ou l'App Store.
+⚠️ Pour que le site fonctionne correctement, il est essentiel de disposer d'un logiciel de synthèse vocale ("TTS" pour Text-to-Speech) pour écouter les phrases en turc. Vous pouvez télécharger un tel logiciel dans les paramètres de votre ordinateur, tablette ou smartphone, sous la section dédiée aux données vocales ou à la synthèse vocale. Vous pouvez en trouver un sur des plateformes telles que le Galaxy Store, le Play Store ou l'App Store. Assurez-vous d'ajouter la langue turque dans les paramètres du logiciel, sinon la lecture se fera dans la langue par défaut de votre appareil.
 
 ## Mes reseaux sociaux :
 
