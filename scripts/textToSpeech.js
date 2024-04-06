@@ -30,7 +30,10 @@ allButtons.forEach((button) => {
     let voice = synth.getVoices().find((v) => v.lang === defaultLang);
     if (!voice) {
       // Si aucune voix turque n'est disponible, recherche d'une voix compatible avec le turc
-      voice = synth.getVoices().find((v) => v.lang.startsWith("tr") || v.voiceURI.includes("Türkçe") || v.voiceURI.includes("Turkish") || v.voiceURI.includes("turkish") || v.voiceURI.includes("turkce") || v.voiceURI.includes("turk") || v.lang.includes("tr"));
+      voice = synth.getVoices().find((v) => v.lang.startsWith("tr")
+        || v.voiceURI.includes("Türkçe") || v.voiceURI.includes("Turkish")
+        || v.voiceURI.includes("turkish") || v.voiceURI.includes("turkce")
+        || v.voiceURI.includes("turk") || v.lang.includes("tr"));
     }
     // Utilisation de la première voix disponible si aucune voix turque n'est trouvée
     speechUtterance.voice = voice || synth.getVoices()[0];
